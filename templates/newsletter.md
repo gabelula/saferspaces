@@ -1,10 +1,10 @@
 # Introduction
 
-We believe that harassment and abuse are significant factors in preventing our entire community of tech companies, user groups, open source projects, and other organizations and events from being truly diverse and welcoming to participation.
+We believe that harassment and abuse are significant factors in preventing our entire community of technology companies, user groups, open source projects, and other organizations and events from being truly diverse and welcoming to participation. We all deserve to have safer spaces.
 
-We intend to educate ourselves and members of our community on what problems exist, and the most effective steps we can take to address them.
+We are always discussing what problems exist in our communities, and the most effective steps we can take to address them.
 
-Get involved! Email sfp@stumptownsyndicate.org to find out how, or check out the repository for this site on GitHub.
+Get involved! Email sfp@stumptownsyndicate.org to find out how, or check out our upcoming events for workshops and online office hours.
 
 # Links
 
